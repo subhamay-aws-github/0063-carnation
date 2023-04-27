@@ -1,5 +1,5 @@
 {
-  "Comment": "A tate machine to demonstrate map state",
+  "Comment": "A state machine to demonstrate map state",
   "StartAt": "Generate Sample Data",
   "Version": "1.0",
   "TimeoutSeconds": 900,
